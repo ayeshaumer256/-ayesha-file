@@ -1,3 +1,2 @@
-red
-yellow
-black
+apple
+mango

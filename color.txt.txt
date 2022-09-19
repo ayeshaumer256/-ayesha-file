@@ -1,4 +1,3 @@
-apple
-mango
-strawberry
-pineapple
+red 
+pink
+black
